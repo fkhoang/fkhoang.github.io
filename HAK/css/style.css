@@ -73,12 +73,12 @@ body {
 
 /* Slider Section */
 .slider {
-    width: 100%;
+    width: 100vw;
     height: 850px;
     background-image: url(..//img/gspagoda.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;    
+   
 }
 
 .slider-overlay {
