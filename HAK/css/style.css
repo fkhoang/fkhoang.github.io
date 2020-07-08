@@ -213,7 +213,7 @@ icons .fa {
 .service-area {
     margin-top: -40px;
     width: 100%;
-    height: auto;
+    height: 100vh;
     background-image: url(../img/6paths.jpg);
     /*--linear-gradient(to bottom, #e3e3e3, #a1a1a1);--*/
     background-size: cover;
